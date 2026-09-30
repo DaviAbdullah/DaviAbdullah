@@ -50,7 +50,7 @@
 | Projek | Deskripsi | Tech Stack |
 | :--- | :--- | :--- |
 | **Basuy_News(https://github.com/DaviAbdullah/LSP_BERITA.git)** | Menyajikan Berita Terkini Serta Berita Viral | `PHP` `Tailwind` `MySQL` |
-| **Xssei((https://github.com/DaviAbdullah/Xssei_lsp.git))** | Deskripsi singkat tentang projek 2 | `PHP` `Tailwind` `MySQL` |
+| **Xssei((https://github.com/DaviAbdullah/Xssei_lsp.git))** | Website Sosial Media  | `PHP` `Tailwind` `MySQL` |
 
 ---
 
