@@ -13,7 +13,7 @@
 
 🚀 **Tentang Saya:**
 - 🌱 Saya sedang mendalami **Golang, TypeScript, Vue.js**
-- 💬 Tanya saya tentang **[Keahlian Utama, misal: React, Node.js, atau UI/UX]**
+- 💬 Tanya saya tentang **Laravel, System Analyst, System Workflows**
 - ⚡ Hal menarik: **Suka Mencoba Hal Baru Tentang Teknologi**
 
 </div>
