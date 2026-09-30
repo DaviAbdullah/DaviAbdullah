@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi there, I'm Dluw._!
-### **[Profesi/Fokus Anda, misal: Full-Stack Developer | Open Source Enthusiast]**
+### **Full-Stack Developer | Open Source Enthusiast**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-davi-abdullah-963988416/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
