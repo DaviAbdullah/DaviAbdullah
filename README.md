@@ -49,8 +49,8 @@
 
 | Projek | Deskripsi | Tech Stack |
 | :--- | :--- | :--- |
-| **[Nama Projek 1](link-repo)** | Deskripsi singkat tentang projek 1 | `React` `Tailwind` `Node.js` |
-| **[Nama Projek 2](link-repo)** | Deskripsi singkat tentang projek 2 | `Python` `FastAPI` `PostgreSQL` |
+| **Basuy_News(https://github.com/DaviAbdullah/LSP_BERITA.git)** | Menyajikan Berita Terkini Serta Berita Viral | `PHP` `Tailwind` `MySQL` |
+| **Xssei((https://github.com/DaviAbdullah/Xssei_lsp.git))** | Deskripsi singkat tentang projek 2 | `PHP` `Tailwind` `MySQL` |
 
 ---
 
