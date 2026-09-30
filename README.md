@@ -12,10 +12,9 @@
 ---
 
 🚀 **Tentang Saya:**
-- 🔭 Saat ini saya sedang mengerjakan **[Projek Utama Anda]**
-- 🌱 Saya sedang mendalami **[Teknologi/Bahasa Pemrograman yang Dipelajari]**
+- 🌱 Saya sedang mendalami **Golang, TypeScript, Vue.js**
 - 💬 Tanya saya tentang **[Keahlian Utama, misal: React, Node.js, atau UI/UX]**
-- ⚡ Hal menarik: **[Fakta Unik/Hobi Singkat Anda]**
+- ⚡ Hal menarik: **Suka Mencoba Hal Baru Tentang Teknologi**
 
 </div>
 
